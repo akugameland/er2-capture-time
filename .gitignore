@@ -1,0 +1,4 @@
+# backups and logs created on the player's PC
+CaptureTimeMod_Backup/
+*.zip
+*.log
